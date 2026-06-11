@@ -34,7 +34,8 @@ To view interacitve StoryMap click here: https://arcg.is/1jyjOm1
 ### Static Maps
 #### Proposed Fire Station Locations
 
-<img width="656" height="391" alt="Screenshot 2026-06-11 112053" src="https://github.com/user-attachments/assets/53bf9a66-318f-475f-b524-574a359943de" />
+<img width="599" height="391" alt="Screenshot 2026-06-11 112053" src="https://github.com/user-attachments/assets/c1e0f971-770f-4c24-8981-2273223c3ac5" />
+
 
 This map shows the most suiteble locations  for new fire stations in the Region of Waterloo. 
 
@@ -64,7 +65,8 @@ The final map highlights the most suitable zones for wind farm development based
 
 #### Point Pattern Analysis of Squirrel Hotspot Locations
 
-<img width="482" height="326" alt="Screenshot 2026-06-11 115907" src="https://github.com/user-attachments/assets/9782e22b-c08e-4d2b-aa14-a24d5ba52f19" />
+<img width="448" height="326" alt="Screenshot 2026-06-11 115907" src="https://github.com/user-attachments/assets/0d832b04-03cc-473d-9e17-451e80f8861b" />
+
 
 These maps display the spatial distribution of eastern grey squirrel sightings on the University of Waterloo campus to identify areas of high densdity and activity. 
 
