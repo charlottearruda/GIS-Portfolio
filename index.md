@@ -2,7 +2,7 @@
 GIS Analyst | Environmental Planning | Spatial Analysis
 
 ## About Me
-GIS and spatial analyst with educational and professional experience in environmental planning, water infastructure, and geospatial technologies. Earned a Bachelor of Environmental Studies in Planning and a Diploma of Excellance in Geogrphic Information Systems from the University of Waterloo.
+GIS and spatial analyst with educational and professional experience in environmental planning, water infastructure, and geospatial technologies. Earned a Bachelor of Environmental Studies in Planning and a Diploma of Excellence in Geogrphic Information Systems from the University of Waterloo.
 
 Experience includes environmental and landscape planning, geostatistical analysis, index and dashboard development and geospatial data management through academic and co-op projects.
 
@@ -19,7 +19,7 @@ Interested in applying GIS to environmental challenges, including ecological res
 ### Web Maps and Apps
 #### Heat Vulnerability Index and Dashboard
 #### [View Project](https://experience.arcgis.com/experience/ec67536086ff47a0aaddbb6f2d0c46c9)
-This Capstone project includes a Heat Vulnerability Index to identify areas most suseptible to heat exposure. The analysis combines environmental and socioeconomic indicators to quantify spatial patterns of vulnerability across Ontario.
+This Capstone project includes a Heat Vulnerability Index to identify areas most susceptible to heat exposure. The analysis combines environmental and socioeconomic indicators to quantify spatial patterns of vulnerability across Ontario.
 
 The index was created using weighted spatial variables representing factors including population characteristics, built environment and exposure to heat.
 
@@ -27,7 +27,7 @@ The interactive dashboard visualizes the index results, allowing users to explor
 
 #### Time Series Analysis of Water Pollution and Invertebrate Diversity
 #### [View Project](https://arcg.is/1jyjOm1) 
-This capstone project includes a StoryMap of a time series analysis of water pollution and water quality characteristics in Laurel Creek over time. Changes in water quality parameters and relationships were assessed using multilinear regression. The dataset was collected using first hand data then cleaned and prepared for analysis to ensure accuracy and consitency. Spatial and temporal patterns were visualised using inverse distanace weighting interpolation and time cube analysis, including temporal animations. 
+This capstone project includes a StoryMap of a time series analysis of water pollution and water quality characteristics in Laurel Creek over time. Changes in water quality parameters and relationships were assessed using multilinear regression. The dataset was collected using first hand data then cleaned and prepared for analysis to ensure accuracy and consistency. Spatial and temporal patterns were visualised using inverse distance weighting interpolation and time cube analysis, including temporal animations. 
 
 ### Static Maps
 #### Proposed Fire Station Locations
@@ -66,7 +66,7 @@ The final map highlights the most suitable zones for wind farm development based
 <img width="448" height="326" alt="Screenshot 2026-06-11 115907" src="https://github.com/user-attachments/assets/0d832b04-03cc-473d-9e17-451e80f8861b" />
 
 
-These maps display the spatial distribution of eastern grey squirrel sightings on the University of Waterloo campus to identify areas of high densdity and activity. 
+These maps display the spatial distribution of eastern grey squirrel sightings on the University of Waterloo campus to identify areas of high density and activity. 
 
 Using R, point observations were processed and converted into spatial point patterns and kernel density estimation was used to generate continuous density surfaces. Both weighted and non-weighted density models were produced to reflect differences in observation abundance.
 
