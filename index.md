@@ -1,4 +1,4 @@
-# GIS Portfolio | Charlotte Arruda
+# Charlotte Arruda | GIS Portfolio
 GIS Analyst | Environmental Planning | Spatial Analysis
 
 ## About Me
