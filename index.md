@@ -27,7 +27,7 @@ The interactive dashboard visualizes the index results, allowing users to explor
 
 #### Time Series Analysis of Water Pollution and Invertebrate Diversity
 #### [View Project](https://arcg.is/1jyjOm1) 
-This capstone project includes a StoryMap of a time series analysis of water pollution and water quality characteristics in Laurel Creek over time. Changes in water quality parameters and relationships were assessed using multilinear regression. The dataset was collected using first hand data then cleaned and prepared for analysis to ensure accuracy and consistency. Spatial and temporal patterns were visualised using inverse distance weighting interpolation and time cube analysis, including temporal animations. 
+This capstone project includes a StoryMap of a time series analysis of water pollution and water quality characteristics in Laurel Creek. Changes in water quality parameters and relationships were assessed using multilinear regression. The dataset was collected using first hand data, then cleaned and prepared for analysis to ensure accuracy and consistency. Spatial and temporal patterns were visualised using inverse distance weighting interpolation and time cube analysis, including temporal animations. 
 
 ### Static Maps
 #### Proposed Fire Station Locations
@@ -35,17 +35,15 @@ This capstone project includes a StoryMap of a time series analysis of water pol
 <img width="599" height="391" alt="Screenshot 2026-06-11 112053" src="https://github.com/user-attachments/assets/c1e0f971-770f-4c24-8981-2273223c3ac5" />
 
 
-This map shows the most suitable locations  for new fire stations in the Region of Waterloo. 
+This map shows the most suitable locations for new fire stations in the Region of Waterloo. It illustrates the projected service area coverage of proposed stations, offering improvements in coverage and call response times.
 
 A network service area analysis was conducted using a road network dataset with travel-time attributes to model realistic driving conditions. Service areas were generated for proposed fire station locations to assess how additional facilities could improve response coverage.
-
-The resulting map illustrates the projected service area coverage of proposed stations, offering improvements in coverage and call response times.
 
 #### Proposed Highway Route Impact on Parcels and Buildings
 
 <img width="470" height="337" alt="Screenshot 2026-06-11 112419" src="https://github.com/user-attachments/assets/26370bea-9d84-4e2b-9ed0-6623553bbb9c" />
 
-This map shows two proposed highway routes west of Waterloo Region. Spatial analysis was used to quantify land-use and built-environment impacts. The analysis focuses on spatial intersections between proposed highway routes, land parcels and building footprints.
+This map shows two proposed highway routes west of Waterloo Region. Spatial analysis was used to quantify land-use and built-environment impacts. The analysis focuses on spatial overlap between proposed highway routes, land parcels and building footprints.
 
 Using QGIS and PostGIS, proximity and overlay operations were applied to assess impacts along each route. Buildings within a 95-metre buffer and parcels within 90 meters of the proposed highways were identified using distance-based spatial queries to flag features at risk of displacement.
 
@@ -64,7 +62,6 @@ The final map highlights the most suitable zones for wind farm development based
 #### Point Pattern Analysis of Squirrel Hotspot Locations
 
 <img width="448" height="326" alt="Screenshot 2026-06-11 115907" src="https://github.com/user-attachments/assets/0d832b04-03cc-473d-9e17-451e80f8861b" />
-
 
 These maps display the spatial distribution of eastern grey squirrel sightings on the University of Waterloo campus to identify areas of high density and activity. 
 
