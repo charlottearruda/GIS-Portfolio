@@ -18,21 +18,17 @@ Interested in applying GIS to environmental challenges, including ecological res
 ## Projects
 ### Web Maps and Apps
 #### Heat Vulnerability Index and Dashboard
-
-This Capstone project includes a Heat Vulnerability Index to identify areas most at risk of extreme heat exposure in Ontario. The analysis combines environmental and socioeconomic indicators to quantify spatial patterns of vulnerability across the study area.
-
-The index was created using weighted spatial variables representing factors such as population characteristics, built environment and exposure to heat. The results were mapped to highlight levels of vulnerability and support spatial understanding of heat risks.
-
-An interactive dashboard visualizes the index results, allowing users to explore spatial patterns and underlying indicators for municipal decision-making purposes. The dashboard includes an index for all of Ontario and three in-depth case studies of municipalities within Ontario.
-
 #### [View Project](https://experience.arcgis.com/experience/ec67536086ff47a0aaddbb6f2d0c46c9)
+This Capstone project includes a Heat Vulnerability Index to identify areas most suseptible to heat exposure. The analysis combines environmental and socioeconomic indicators to quantify spatial patterns of vulnerability across Ontario.
+
+The index was created using weighted spatial variables representing factors including population characteristics, built environment and exposure to heat.
+
+The interactive dashboard visualizes the index results, allowing users to explore spatial patterns for municipal decision-making purposes. The dashboard includes an index for all of Ontario and three comprehensive municipal case studies.
 
 #### Time Series Analysis of Water Pollution and Invertebrate Diversity
+#### [View Project](https://arcg.is/1jyjOm1) 
+This capstone project includes a StoryMap of a time series analysis of water pollution and water quality characteristics in Laurel Creek over time. Changes in water quality parameters and relationships were assessed using multilinear regression. The dataset was collected using first hand data then cleaned and prepared for analysis to ensure accuracy and consitency. Spatial and temporal patterns were visualised using inverse distanace weighting interpolation and time cube analysis, including temporal animations. 
 
-This capstone project includes a time series analysis of water pollution and water quality characteristics in Laurel Creek over time. Changes in water quality parameters and relationships were assessed using multilinear regression. The dataset was collected using first hand data then cleaned and prepared for analysis to ensure accuracy and consitency. Spatial and temporal patterns were visualised using inverse distanace weighting interpolation and time cube analysis, including temporal animations.
-
-#### [View Project](https://arcg.is/1jyjOm1)
-  
 ### Static Maps
 #### Proposed Fire Station Locations
 
